@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: skyblue;
+
+}
+#dice {
+    font-size: 320px;
+}
+
+#dice:hover{
+    cursor: pointer;
+}
+
+.container{
+    width: 25rem;
+    border: 15px solid green;
+    top: 50%;
+    left: 50%;
+    margin-left: 35rem;
+    margin-top: 10rem;
+     
+}
+
+#text{
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 2rem;
+ text-align: center;
+ padding-top: 4rem;
+
+}
